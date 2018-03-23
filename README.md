@@ -1,9 +1,9 @@
 # Bsure-api-wal
-server api of wallet for bixin chain
+server api of wallet for Bsure chain
 # Rpc规范参考 [http://www.jsonrpc.org/](http://www.jsonrpc.org/)
 1.1. **钱包rpc功能接口**
 
-钱包rpc功能接口地址全部为https://fcuk.io/wallet
+钱包rpc功能接口地址测试URL: https://fcuk.io/wallet
 
 可以以post方式发送json串，参数如下：
 ```json
