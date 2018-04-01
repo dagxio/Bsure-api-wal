@@ -1,4 +1,4 @@
-// 关于生成 wallet 的笔记
+// about wallet notes
 // we need address 、wallet、 is_change、address_index、 definition、
 //
 const device = require('byteballcore/device.js');
