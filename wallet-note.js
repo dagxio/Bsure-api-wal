@@ -1,6 +1,6 @@
 // about wallet notes
 // we need address 、wallet、 is_change、address_index、 definition、
-//
+// about HD wallet， reference： https://ethfans.org/posts/from-BIP-to-ethereum-HD-wallet
 const device = require('byteballcore/device.js');
 
 
