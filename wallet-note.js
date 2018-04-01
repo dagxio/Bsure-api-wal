@@ -2,6 +2,7 @@
 // we need address 、wallet、 is_change、address_index、 definition、
 // about HD wallet， reference： https://ethfans.org/posts/from-BIP-to-ethereum-HD-wallet
 // about HD wallet， reference2： https://medium.com/@bun919tw/hd-wallet-970096a6d72f
+// about BIP规范： BIP32 BIP38、BIP39、BIP44 之间的异同  reference3: https://www.zhihu.com/question/263437658
 const device = require('byteballcore/device.js');
 
 
