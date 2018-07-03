@@ -1,5 +1,5 @@
 # Bsure-api-wal
-server api of wallet for Bsure chain
+server api of wallet for dagx chain
 # Rpc规范参考 [http://www.jsonrpc.org/](http://www.jsonrpc.org/)
 1.1. **钱包rpc功能接口**
 
